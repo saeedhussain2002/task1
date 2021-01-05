@@ -1,0 +1,65 @@
+body{
+background-color: gray;
+padding: 0px;
+margin: 0px;
+}
+.container{
+    background-color:rgb(76, 0, 255);
+    width:378px ;
+    height:500px ;
+    margin:0 auto ;
+    border-radius:3px ;
+}
+.paragraph{
+    background-color: black;
+    font-size: 20px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 0.3px;
+    padding: 15px 0px 15px;
+    margin-bottom: 50px;
+}
+   
+
+.ipt{
+    width:152px ;
+    height:32px ;
+    margin:3px 6px ;
+    border-radius:2px ;
+    border: 1px solid coral;
+    border-left: 2px darkgreen;
+}
+.ipt2{
+    width:322px ;
+    height:32px ;
+    margin:3px 6px ;
+    border-radius:2px ;
+    border: 1px solid royalblue;
+    border-left: 2px sienna;
+}
+.paragraph:hover{
+ color: palevioletred;
+}
+
+.join-now{
+    width:335px ;
+    height:32px ;
+    margin:3px 2px ;
+    border-radius:2px ;
+    border-color: purple ;
+    background-color: white;
+    color: blue;
+}
+.connect{
+    width:335px ;
+    height:32px ;
+    margin:3px 2px ;
+    border-radius:2px ;
+    border-width: 1px;
+    border-color: purple ;
+    color: darkred;
+}
+.icon{
+    margin: 20px;
+}
